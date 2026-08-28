@@ -91,3 +91,6 @@ make flash                                        # 3. 烧录（接好 ST-Link �
 更多玩法（按键控制、指定角度、加减速）见
 [docs/04-代码讲解.md](docs/04-代码讲解.md)。
 # rhino_pi_x1_stm32
+
+## 更多内容去论坛
+![阿加犀论坛](https://forum.aidlux.com/t/topic/74930/4)
