@@ -92,5 +92,8 @@ make flash                                        # 3. 烧录（接好 ST-Link �
 [docs/04-代码讲解.md](docs/04-代码讲解.md)。
 # rhino_pi_x1_stm32
 
+## 效果 
+![效果](./76ddd2860d47f1dcb7c6e94a3eb278c2.gif）
+
 ## 更多内容去论坛
 ![阿加犀论坛](https://forum.aidlux.com/t/topic/74930/4)
